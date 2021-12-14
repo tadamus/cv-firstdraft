@@ -51,16 +51,16 @@ Syracuse University (Syracuse, New York)
 VIVO, Cornell University (Ithaca, New York)
 #### Library Intern, 2011 – 2011
 Frank A. Lee Library, Cornell University (Geneva, New York)
-#### Contractor, Training Development
-2009 – 2010, DeLuca Designs (Penfield, New York)
+#### Contractor, Training Development, 2009 – 2010
+DeLuca Designs (Penfield, New York)
 #### Scientist, 2005 – 2009
 Product Development, Research and Development, Bausch & Lomb (Rochester, New York)
 #### Microbiology Laboratory Analyst, 2002 – 2003
 Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Components Testing Laboratory Technician
-2000 – 2002, Burns Personnel under contract for Eastman Kodak (Rochester, New York)
-#### Chemistry and Physical Science Teacher
-1999 – 2000, Milford High School (Milford, Delaware)
+#### Components Testing Laboratory Technician, 2000 – 2002
+Burns Personnel under contract for Eastman Kodak (Rochester, New York)
+#### Chemistry and Physical Science Teacher, 1999 – 2000
+Milford High School (Milford, Delaware)
 
 ## Commitment to Research Data Outside UW-Madison: 
 #### Research Data Access and Preservation Association
