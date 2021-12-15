@@ -1,5 +1,5 @@
 # Trisha Adamus
-[0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](https://github.com/tadamus/cv/blob/gh-pages/ORCIDiD_icon32x32.png?raw=true)
+[0000-0001-8464-3334](https://orcid.org/0000-0001-8464-3334) ![ORCID iD icon](ORCIDiD_icon32x32.png)
 
 ## Peer Reviewed Publications
   - Data Scholarship and Student Engagement: extra-curricular research investigations and academic libraries, chapter in Academic Libraries as Partners in Data Science Ecosystems. Proposal accepted and writing ongoing.
